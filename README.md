@@ -1,5 +1,5 @@
 # Arquitetura frontend orientada a dados
-Uma apresentação de como utilizar o Mirage JS como uma alternativa interessante para mock no cotidiano dev. Isso pensando em uma forma de arquitetura orientada a dados para isolar esse tipo de chamada.
+Uma apresentação de como trabalhar a criação de formulários com uma abordagem orientada a dados para criação de aplicações em larga escala e com baixo acoplamento.
 
 ## Author
 
